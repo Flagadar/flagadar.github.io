@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.5",
+  "version": "v0.0.6",
   "notes": "Test version",
   "pub_date": "2023-08-08T15:49:59Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2dVbWNvb2J3d0JJREova1N2SGNYaVZVY2pBaGN1WXF5aXlqS3cxVFpGRnpuemZzR2VyR3Yxai94Q3VkMU8yb01DK3cwTXJyNUxQUE4xdTZ1STFQRnhVL1FPdWVSN3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxNTA3NjUwCWZpbGU6cGx1cy1iZWxsZS1sYS1taW5lXzAuMC41X2FtZDY0LkFwcEltYWdlLnRhci5negpXZ0NVbFkxeWExVndBeDhObCt3LzhqVmU0Qk9vMnQzZG1XMFJQVWc1VFdFbE1KYlQ4ZVRNa2xhajFWaFZsaCtycmtyaUxPSlpGY0pOUWpkU2FZeFhEQT09Cg==",
-      "url": "https://www.dropbox.com/scl/fi/utd39pbargmxiqo2khh5b/plus-belle-la-mine_0.0.5_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2dVbWNvb2J3d0Y2b1hUQW5jMjZZSFFKTndRRjM0cHpMa2dYQ25yRS9SaEQremkraEhGeUwwanN3akdaOTFlZ083a1BmNHV5RVFXdG11QVU4dk0xN3VjMjdncUZJbFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxNTA5NDUxCWZpbGU6cGx1cy1iZWxsZS1sYS1taW5lXzAuMC42X2FtZDY0LkFwcEltYWdlLnRhci5negpaTTIvaVZNcTFJaDdMM2F2aXZMVG9lT1RCOXVuelcxOGUwUVd3OG5DSFVOb0NIb0RzTGVjWDVQTlNDaGNVVjQ2RHdoNlNta1laVVZvT1p2Y3ZpRWpEUT09Cg==",
+      "url": "https://www.dropbox.com/scl/fi/5vxeql6ccv6bgiyoau18i/plus-belle-la-mine_0.0.6_amd64.AppImage.tar.gz?rlkey=y5i67lq5ksda4998r19yrtc5j&dl=0"
     }
   }
 }
