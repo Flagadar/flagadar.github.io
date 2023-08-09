@@ -3,7 +3,7 @@
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2dVbWNvb2J3d0Y2b1hUQW5jMjZZSFFKTndRRjM0cHpMa2dYQ25yRS9SaEQremkraEhGeUwwanN3akdaOTFlZ083a1BmNHV5RVFXdG11QVU4dk0xN3VjMjdncUZJbFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxNTA5NDUxCWZpbGU6cGx1cy1iZWxsZS1sYS1taW5lXzAuMC42X2FtZDY0LkFwcEltYWdlLnRhci5negpaTTIvaVZNcTFJaDdMM2F2aXZMVG9lT1RCOXVuelcxOGUwUVd3OG5DSFVOb0NIb0RzTGVjWDVQTlNDaGNVVjQ2RHdoNlNta1laVVZvT1p2Y3ZpRWpEUT09Cg==",
-      "url": "https://www.dropbox.com/scl/fi/5vxeql6ccv6bgiyoau18i/plus-belle-la-mine_0.0.6_amd64.AppImage.tar.gz"
+      "url": "https://github.com/Flagadar/PBLM-Launcher/releases/download/v0.0.6/plus-belle-la-mine_0.0.6_amd64.AppImage.tar.gz"
     }
   }
 }
