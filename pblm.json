@@ -1,9 +1,19 @@
 {
-  "version": "0.0.5",
+  "version": "0.0.6",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2023-08-12T16:03:48.321Z",
   "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2dVbWNvb2J3d1AxWDMrUEx3dERZRUd0MEovS05pU3BseEVTM1NLTlJVOXpLaTRLWFJiNGRpSmdicW55QmVNdnI5RnNQV1FtNWdVTFdnQ0pOa1UyeFEvRFJYN1VMRHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxODU1ODAxCWZpbGU6UGx1cyBCZWxsZSBsYSBNaW5lLmFwcC50YXIuZ3oKWW1rYjZhN2ZyenRqUm83UEo0bHdFOU5BZG9qYTJMNEZyVTFBdHZDTUoycmE1TUtwbEtsNGtnK3VhUktacjVBM3dFSW53U1M1bkpZbDRzZmZ5VERYRFE9PQo=",
+      "url": "https://github.com/Flagadar/PBLM-Launcher/releases/download/app-v0.0.5/Plus.Belle.la.Mine_x64.app.tar.gz"
+    },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2dVbWNvb2J3d0Y2b1hUQW5jMjZZSFFKTndRRjM0cHpMa2dYQ25yRS9SaEQremkraEhGeUwwanN3akdaOTFlZ083a1BmNHV5RVFXdG11QVU4dk0xN3VjMjdncUZJbFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxNTA5NDUxCWZpbGU6cGx1cy1iZWxsZS1sYS1taW5lXzAuMC42X2FtZDY0LkFwcEltYWdlLnRhci5negpaTTIvaVZNcTFJaDdMM2F2aXZMVG9lT1RCOXVuelcxOGUwUVd3OG5DSFVOb0NIb0RzTGVjWDVQTlNDaGNVVjQ2RHdoNlNta1laVVZvT1p2Y3ZpRWpEUT09Cg==",
-      "url": "https://github.com/Flagadar/PBLM-Launcher/releases/download/v0.0.6/plus-belle-la-mine_0.0.6_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2dVbWNvb2J3d0FDT0xScnQ1TUpxTUx3R3BINUF0cmhMZldSN0VIdDdaMExuZ2EvR1R3a3JNeFBLTnJNN1QyNy9ESVdLeEpEVW5WSkt1MUpMT0JrOGdIYm1FaGVtb1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxODU1ODg4CWZpbGU6cGx1cy1iZWxsZS1sYS1taW5lXzAuMC41X2FtZDY0LkFwcEltYWdlLnRhci5negpwUmI5N21pdjhsZEJVaHVCVW9ZbWhSUmltMTRkVjNha2tzKzlnWUNHcmJkb21VTjQ1cUgxd1VTYVdwUW4yWmhXMFQybDl3SHhZd0s1UWZYYmkvOGREZz09Cg==",
+      "url": "https://github.com/Flagadar/PBLM-Launcher/releases/download/app-v0.0.5/plus-belle-la-mine_0.0.5_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2dVbWNvb2J3d0ZTRGRJekJsU1hKMkFKTC9GUUkzZ1FnU2ZTRmNKUFBlMmtQalV5VkFQbUxVM3Z2cTM3b3VsZVg2Q0dKc1g1T2wyYWRoV2lwSUlwaDlhMEI1Vnd1eHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxODU2MjIzCWZpbGU6UGx1cyBCZWxsZSBsYSBNaW5lXzAuMC41X3g2NF9lbi1VUy5tc2kuemlwClhUQmQrNHBEeHB6bHd4Q3J0akxOMi9IYWVOY2VCOVpEcXBqRC9Wem5EMFZYSS8wZXFLTENnUm9FdW5EdXFMdnJqNllwaXczeXh5OFlVbitaZDc2TkRnPT0K",
+      "url": "https://github.com/Flagadar/PBLM-Launcher/releases/download/app-v0.0.5/Plus.Belle.la.Mine_0.0.5_x64_en-US.msi.zip"
     }
   }
 }
